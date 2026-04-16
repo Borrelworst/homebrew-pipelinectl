@@ -31,7 +31,7 @@ class Pipelinectl < Formula
 
   resource "requests" do
     url "https://files.pythonhosted.org/packages/5f/a4/98b9c7c6428a668bf7e42ebb7c79d576a1c3c1e3ae2d47e674b468388871/requests-2.33.1.tar.gz"
-    sha256 "18817f8c57c6268968bc123d237e3b8b08ac046f5456bd1e307ee8f4250d3517"
+    sha256 "18817f8c57c6263968bc123d237e3b8b08ac046f5456bd1e307ee8f4250d3517"
   end
 
   resource "tomli-w" do
